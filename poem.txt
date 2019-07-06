@@ -6,6 +6,7 @@ oragne
 blue
 green
 integal
+recycle!
 unicorn
 yellow
 red
